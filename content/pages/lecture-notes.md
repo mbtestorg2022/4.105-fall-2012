@@ -24,7 +24,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Introduction (PDF - 14.1MB)](/ans7870/4/4.105/f12/MIT4_105F12_lec1-intro.pdf)
+[Introduction (PDF - 14.1MB)](/ans7870/4/4.105/f12/MIT4_105F12_lec1-intro.pdf)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +33,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Planes, Planes, and Planes (PDF - 9.4MB)]({{< baseurl >}}/resources/mit4_105f12_lec2-planes)
+[Planes, Planes, and Planes (PDF - 9.4MB)]({{< baseurl >}}/resources/mit4_105f12_lec2-planes)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Composites, Conventions, Axonometrics (PDF - 7.2MB)]({{< baseurl >}}/resources/mit4_105f12_lec3-compos)
+[Composites, Conventions, Axonometrics (PDF - 7.2MB)]({{< baseurl >}}/resources/mit4_105f12_lec3-compos)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +51,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Curvature (PDF - 9.2MB)]({{< baseurl >}}/resources/mit4_105f12_lec4-curv)
+[Curvature (PDF - 9.2MB)]({{< baseurl >}}/resources/mit4_105f12_lec4-curv)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +60,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Stereotomy and Developability (PDF - 6.4MB)]({{< baseurl >}}/resources/mit4_105f12_lec5-stereo)
+[Stereotomy and Developability (PDF - 6.4MB)]({{< baseurl >}}/resources/mit4_105f12_lec5-stereo)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +78,7 @@ Organic Modeling
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Discretization (PDF - 43.7MB)](/ans7870/4/4.105/f12/MIT4_105F12_lec7-discret.pdf)
+[Discretization (PDF - 43.7MB)](/ans7870/4/4.105/f12/MIT4_105F12_lec7-discret.pdf)
 {{< tdclose >}}
 
 {{< trclose >}}

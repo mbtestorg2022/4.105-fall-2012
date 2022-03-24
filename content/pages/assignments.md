@@ -30,7 +30,7 @@ SUPPORTING RESOURCES
 [Projections of Oblique Planes (PDF)]({{< baseurl >}}/resources/mit4_105f12_ex1-projection)
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Step-by-step Tutorial on Descriptive Geometry and Projection (PDF - 4.3MB)]({{< baseurl >}}/resources/mit4_105f12_ex1-desgeo)
+[Step-by-step Tutorial on Descriptive Geometry and Projection (PDF - 4.3MB)]({{< baseurl >}}/resources/mit4_105f12_ex1-desgeo)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ SUPPORTING RESOURCES
 [Planes (PDF)]({{< baseurl >}}/resources/mit4_105f12_ex2-planes)
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Step-by-step Tutorial on Planar Intersections + Folding (PDF - 7.5MB)]({{< baseurl >}}/resources/mit4_105f12_ex2-intrnfold)
+[Step-by-step Tutorial on Planar Intersections + Folding (PDF - 7.5MB)]({{< baseurl >}}/resources/mit4_105f12_ex2-intrnfold)
 {{< tdclose >}}
 
 {{< trclose >}}
