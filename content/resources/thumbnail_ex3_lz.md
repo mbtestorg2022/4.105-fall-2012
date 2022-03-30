@@ -10,6 +10,7 @@ image_metadata:
   credit: Courtesy of Luisel Zayas-San-Miguel. Used with permission.
   image-alt: Perspective drawing of several planes in an almost closed-plane object
     with angles marked.
+parent_uid: 7bb7ac6c-10da-13f0-8eed-bc036ee379e3
 resourcetype: Image
 title: Thumbnail_Ex3_LZ.JPG
 uid: fc8ecbf8-9e0f-a687-3010-d2764c29f9ea

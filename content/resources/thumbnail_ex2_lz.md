@@ -9,6 +9,7 @@ image_metadata:
     for a drawing.
   credit: Courtesy of Luisel Zayas-San-Miguel. Used with permission.
   image-alt: Perspective drawing of two intersecting volumes.
+parent_uid: 7bb7ac6c-10da-13f0-8eed-bc036ee379e3
 resourcetype: Image
 title: Thumbnail_Ex2_LZ.JPG
 uid: 1250eefe-34c1-0e14-2f20-c746e41e5524

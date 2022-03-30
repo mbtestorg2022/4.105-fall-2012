@@ -9,6 +9,7 @@ image_metadata:
   credit: Courtesy of Luisel Zayas-San-Miguel. Used with permission.
   image-alt: Screenshot of an abstract figure with discretized bulges on the left
     half.
+parent_uid: 7bb7ac6c-10da-13f0-8eed-bc036ee379e3
 resourcetype: Image
 title: Thumbnail_Ex7_Inflation_LZ.JPG
 uid: 4f95c398-2392-2bd4-c087-dd5dff385713

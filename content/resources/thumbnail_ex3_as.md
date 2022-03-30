@@ -9,6 +9,7 @@ image_metadata:
   credit: Courtesy of Austin W. Smith. Used with permission.
   image-alt: Drawing of a polygonal all-like figure with faces called out by projection
     lines.
+parent_uid: 7bb7ac6c-10da-13f0-8eed-bc036ee379e3
 resourcetype: Image
 title: Thumbnail_Ex3_AS.JPG
 uid: 494ccbca-456b-ba1b-9756-769b6e29f3b0

@@ -8,6 +8,7 @@ image_metadata:
   caption: Fabrication of a model of a bike saddle produced by casting.
   credit: Courtesy of Luisel Zayas-San-Miguel. Used with permission.
   image-alt: Photograph of two white halves of a bike saddle mold.
+parent_uid: 7bb7ac6c-10da-13f0-8eed-bc036ee379e3
 resourcetype: Image
 title: Thumbnail_Ex6_LZ.jpg
 uid: 1ac2a22c-d60d-3177-7145-bbef3982dc4d

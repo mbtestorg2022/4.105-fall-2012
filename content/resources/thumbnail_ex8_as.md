@@ -9,6 +9,7 @@ image_metadata:
   credit: Courtesy of Austin W. Smith. Used with permission.
   image-alt: Rendering of white arcs, green surface connections, and orange intersections
     over a figure.
+parent_uid: 7bb7ac6c-10da-13f0-8eed-bc036ee379e3
 resourcetype: Image
 title: Thumbnail_Ex8_AS.JPG
 uid: 6a3fb02a-4122-1ab4-0367-bfb88d6ece34

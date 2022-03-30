@@ -8,6 +8,7 @@ image_metadata:
   caption: SketchUp model demonstrating the construction process and inflatability.
   credit: Courtesy of Luisel Zayas-San-Miguel. Used with permission.
   image-alt: Screenshot of curved grid lines defining a bulging surface.
+parent_uid: 7bb7ac6c-10da-13f0-8eed-bc036ee379e3
 resourcetype: Image
 title: Thumbnail_Ex7_Process_LZ.JPG
 uid: 58e1ce20-4714-c4b1-4c8b-236262c446ad

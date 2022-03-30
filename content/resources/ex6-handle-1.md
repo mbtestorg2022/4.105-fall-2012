@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: bb5f9d52-3e26-f2a6-22f7-28050421f5a7
 resourcetype: Image
 title: ex6-handle.JPG
 uid: 3bd65120-6d64-d924-8b0c-fcc88e26698d

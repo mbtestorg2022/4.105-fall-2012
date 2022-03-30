@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: bb5f9d52-3e26-f2a6-22f7-28050421f5a7
 resourcetype: Image
 title: ex7-figure.JPG
 uid: dea602d7-6924-132b-f11c-c5fc2b508ebf

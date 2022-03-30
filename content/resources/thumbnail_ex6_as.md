@@ -9,6 +9,7 @@ image_metadata:
     W. Smith.
   credit: Courtesy of Austin W. Smith. Used with permission.
   image-alt: Image of a face with a triangulated and meshed figure over the left half.
+parent_uid: 7bb7ac6c-10da-13f0-8eed-bc036ee379e3
 resourcetype: Image
 title: Thumbnail_Ex6_AS.JPG
 uid: 96676f6c-a780-cf74-4eff-9b2efa031a6f
